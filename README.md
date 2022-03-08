@@ -11,7 +11,7 @@
   - Watch the game live.
 
 ## Follow Me
-![访问个人主页数量](https://komarev.com/ghpvc/?username=duktig666&color=green)
+[![GitHub](https://img.shields.io/static/v1?logo=github&logoColor=rgb(255,255,255)&label=&message=github&color=rgb(24,23,23)&style=for-the-badge)](https://github.com/Eric-zhou97)
 [![LeetCode](https://img.shields.io/static/v1?logo=Leetcode&logoColor=FFF&label=&message=Leetcode&color=FFA116&style=for-the-badge)](https://leetcode-cn.com/u/ericz-u/)
 
 
