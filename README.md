@@ -1,14 +1,9 @@
 # Hi,I'm Changsong Zhou! 👋
 <img src="https://github-readme-stats.vercel.app/api?username=duktig666&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
 
-- 🔭 I’m currently working on **HeNan**.
-- 🌱 I’m currently learning **distributed** , **micro service** and **big data**.
-- 💬 Ask me about Java technology.
-- ⚡ Fun fact: 
-  - Write technical and life articles.
-  - “Hardcore fiction reader”.
-  - Play games, especially LOL mobile games.
-  - Watch the game live.
+- 🔭 I’m currently working on **Nanjing**.
+- 🌱 I’m currently learning **JS** , **VUE** and **IPFS**.
+- 💬 Ask me about JavaScript technology.
 
 ## Follow Me
 [![GitHub](https://img.shields.io/static/v1?logo=github&logoColor=rgb(255,255,255)&label=&message=github&color=rgb(24,23,23)&style=for-the-badge)](https://github.com/Eric-zhou97)
