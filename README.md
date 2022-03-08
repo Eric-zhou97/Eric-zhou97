@@ -12,7 +12,7 @@
 
 ## Follow Me
 ![访问个人主页数量](https://komarev.com/ghpvc/?username=duktig666&color=green)
-[![LeetCode](https://leetcode-cn.com/u/ericz-u/)
+![LeetCode](https://leetcode-cn.com/u/ericz-u/)
 
 ## Languages
 <a href="https://github.com/duktig666">
